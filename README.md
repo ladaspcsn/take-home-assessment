@@ -4,7 +4,7 @@ A blockchain-integrated healthcare data management system built with the MERN st
 
 ## 🚀 Features
 
-### Core Functionality (Required)
+### Core Functionality
 - **Patient Management** - Browse, search, and view patient records with pagination
 - **Patient Details** - Comprehensive patient information and medical record history
 - **Consent Management** - Create and manage healthcare consents with blockchain verification
@@ -12,7 +12,7 @@ A blockchain-integrated healthcare data management system built with the MERN st
   - Real-time consent status tracking
   - Blockchain transaction hash verification
 
-### Enhanced Features (Bonus)
+### Enhanced Features 
 - **Statistics Dashboard** - Real-time platform analytics with visual progress indicators
 - **Transaction History** - Complete blockchain transaction log with filtering capabilities
 - **Web3 Integration** - Seamless wallet connection and signature workflows

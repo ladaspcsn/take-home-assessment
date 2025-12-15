@@ -27,7 +27,7 @@
   gap: 1rem;
 }
 
-.wallet-address {
+.wallet-info .wallet-address {
   display: flex;
   align-items: center;
   gap: 0.5rem;

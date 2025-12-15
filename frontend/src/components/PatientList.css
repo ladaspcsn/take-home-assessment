@@ -16,6 +16,10 @@
   font-size: 1.5rem;
 }
 
+.patient-contact span {
+  white-space: nowrap;
+}
+
 .search-input {
   padding: 0.75rem 1rem;
   border: 2px solid #e0e0e0;

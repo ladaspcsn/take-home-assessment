@@ -212,7 +212,7 @@ Use these patient IDs when creating consents:
 - No authentication/authorization implemented
 - Data is not persisted (resets on server restart)
 
-## 🎓 Learning Outcomes
+## 🎓 Skills demonstrated
 
 Through this project, I demonstrated:
 - React hooks (useState, useEffect) for state management

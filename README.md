@@ -49,7 +49,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ladaspcsn/take-home-assessment
 cd take-home-assessment
 ```
 
